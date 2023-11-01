@@ -4,3 +4,5 @@ Formulario
   -Contraseña
 Botón ingresar
 Crear nuevo usuario
+
+Borrar usuarios (JMA)
