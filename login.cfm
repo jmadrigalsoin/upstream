@@ -3,4 +3,4 @@ Formulario
   -Usuario
   -Contraseña
 Botón ingresar
-recordar contraseña
+botón recordar contraseña
